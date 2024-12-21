@@ -126,6 +126,53 @@ This project is meant solely for educational purposes and learning software deve
 
 ---
 
+## Available Models
+
+The library supports various GPT models, including:
+
+- GPT-4
+- GPT-4-0613
+- GPT-4-32k
+- GPT-4-0314
+- GPT-4-32k-0314
+- GPT-3.5-Turbo
+- GPT-3.5-Turbo-16k
+- GPT-3.5-Turbo-0613
+- GPT-3.5-Turbo-16k-0613
+- GPT-3.5-Turbo-0301
+- Text-Davinci-003
+- Text-Davinci-002
+- Code-Davinci-002
+- GPT-3
+- Text-Curie-001
+- Text-Babbage-001
+- Text-Ada-001
+- Davinci
+- Curie
+- Babbage
+- Ada
+- Babbage-002
+- Davinci-002
+- GPT-4o
+- ChatGPT
+
+
+
+## Error Codes
+These are the error codes that will be presented in case the API fails.
+
+# API Response Codes
+
+| **Code** | **Error**                 | **Description**                                             |
+|----------|---------------------------|-------------------------------------------------------------|
+| 400      | BAD_REQUEST               | Not all parameters have been entered correctly             |
+| 500      | INTERNAL_SERVER_ERROR     | The server has experienced failures                        |
+| 200      | Success                   | The API worked without issues                              |
+
+
+
+---
+
 **Remember**: This code is for educational purposes only. Use responsibly and ethically. Use responsibly and respect API limitations! 🚀
 
 ---
