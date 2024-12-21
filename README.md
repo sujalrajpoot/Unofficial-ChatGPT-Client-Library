@@ -169,8 +169,6 @@ These are the error codes that will be presented in case the API fails.
 | 500      | INTERNAL_SERVER_ERROR     | The server has experienced failures                        |
 | 200      | Success                   | The API worked without issues                              |
 
-
-
 ---
 
 **Remember**: This code is for educational purposes only. Use responsibly and ethically. Use responsibly and respect API limitations! 🚀
